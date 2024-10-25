@@ -4,39 +4,200 @@
   
     
     <entry>
-      <title>第三篇文章</title>
+      <title>JavaScript学习笔记(一)</title>
+      <link href="/posts/7ad75909.html"/>
+      <url>/posts/7ad75909.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="JavaScript学习笔记-一"><a href="#JavaScript学习笔记-一" class="headerlink" title="JavaScript学习笔记(一)"></a>JavaScript学习笔记(一)</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> JavaScript </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> JavaScript </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Css学习笔记(一)</title>
+      <link href="/posts/d5dfe86f.html"/>
+      <url>/posts/d5dfe86f.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="Css学习笔记-一"><a href="#Css学习笔记-一" class="headerlink" title="Css学习笔记(一)"></a>Css学习笔记(一)</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> Css </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Css </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Html学习笔记(一)</title>
+      <link href="/posts/e807abf.html"/>
+      <url>/posts/e807abf.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="Html学习笔记-一"><a href="#Html学习笔记-一" class="headerlink" title="Html学习笔记(一)"></a>Html学习笔记(一)</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> Html </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Html </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>C#学习笔记(一)</title>
+      <link href="/posts/3bbb3637.html"/>
+      <url>/posts/3bbb3637.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="C-学习笔记-一"><a href="#C-学习笔记-一" class="headerlink" title="C#学习笔记(一)"></a>C#学习笔记(一)</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> C# </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> C# </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Java学习笔记(一)</title>
+      <link href="/posts/6b166f35.html"/>
+      <url>/posts/6b166f35.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="Java学习笔记-一"><a href="#Java学习笔记-一" class="headerlink" title="Java学习笔记(一)"></a>Java学习笔记(一)</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> Java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Java </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>建站笔记(三)</title>
       <link href="/posts/a03a840d.html"/>
       <url>/posts/a03a840d.html</url>
       
-        <content type="html"><![CDATA[<h2 id="这是我的第三篇文章"><a href="#这是我的第三篇文章" class="headerlink" title="这是我的第三篇文章"></a>这是我的第三篇文章</h2>]]></content>
+        <content type="html"><![CDATA[<h2 id="建站笔记-三"><a href="#建站笔记-三" class="headerlink" title="建站笔记(三)"></a>建站笔记(三)</h2>]]></content>
       
       
+      <categories>
+          
+          <category> 建站 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 建站 </tag>
+            
+        </tags>
       
     </entry>
     
     
     
     <entry>
-      <title>第二篇文章</title>
+      <title>建站笔记(二)</title>
       <link href="/posts/1e7ff688.html"/>
       <url>/posts/1e7ff688.html</url>
       
-        <content type="html"><![CDATA[<h2 id="这是我的第二篇文章"><a href="#这是我的第二篇文章" class="headerlink" title="这是我的第二篇文章"></a>这是我的第二篇文章</h2>]]></content>
+        <content type="html"><![CDATA[<h2 id="建站笔记-二"><a href="#建站笔记-二" class="headerlink" title="建站笔记(二)"></a>建站笔记(二)</h2>]]></content>
       
       
+      <categories>
+          
+          <category> 建站 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 建站 </tag>
+            
+        </tags>
       
     </entry>
     
     
     
     <entry>
-      <title>第一篇文章</title>
+      <title>建站笔记(一)</title>
       <link href="/posts/5c2fafc7.html"/>
       <url>/posts/5c2fafc7.html</url>
       
-        <content type="html"><![CDATA[<h2 id="这是我的第一篇文章"><a href="#这是我的第一篇文章" class="headerlink" title="这是我的第一篇文章"></a>这是我的第一篇文章</h2>]]></content>
+        <content type="html"><![CDATA[<div class="note info no-icon flat"><p><font size=4><b>前言</b></font><br>欢迎来到我的建站笔记，该系列文章将记录博客网站的搭建过程。<br>博客网站使用<code>Hexo</code>框架和<code>Butterfly</code>主题，线路托管于<code>Vercel</code>，代码存储于<code>Github</code>。<br><a href="https://hexo.io/">Hexo</a>是一个快速、简洁且高效的博客框架。<br><a href="https://butterfly.js.org/">Butterfly</a>是一个基于Hexo设计的美化主题。<br><a href="https://vercel.com/">Vercel</a>是一个用于部署和托管的云平台。<br><a href="https://github.com/">Github</a>是一个面向项目的代码存储平台。</p></div><h2 id="1-环境与工具"><a href="#1-环境与工具" class="headerlink" title="1.环境与工具"></a>1.环境与工具</h2><ul><li>操作系统：<code>Windows10</code></li><li><code>Node</code>、<code>Git</code>、<code>Hexo</code></li><li><code>IDE(VSCODE)</code></li><li><code>GitHub</code></li><li><code>域名</code></li></ul><h2 id="2-Node安装"><a href="#2-Node安装" class="headerlink" title="2.Node安装"></a>2.Node安装</h2><ol><li>打开<a href="https://registry.npmmirror.com/binary.html?path=node/">镜像站</a>点击<code>v19.0.0</code>版本，选择<code>node-v19.0.0-win-x64.7z</code>下载。</li><li>打开目录【C:/Program Files/】新建名为<code>Node</code>的文件夹，将压缩包解压到该文件夹下。解压完成后在当前目录下新建两个名为<code>node_global</code>和<code>node_cache</code>的文件夹。</li><li>在系统变量中新建变量，变量名：<code>NODE_HOME</code> 变量值：<code>C:\Program Files\Node</code>。<br>双击 Path 变量，在变量值后边添加：<code>;%NODE_HOME%;%NODE_HOME%\node_global;%NODE_HOME%\node_cache</code>。</li><li>在键盘按下<code>WIN + R</code>键，输入<code>CMD</code>然后回车，打开CMD窗口。执行<code>node -v</code>命令，看到版本信息，则说明<code>node</code>安装成功。执行<code>npm -v</code>命令，看到版本信息，则说明<code>npm</code>安装成功。</li><li>配置<code>npm</code>全局路径和缓存路径。<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">npm config set prefix &quot;C:\Program Files\Node\node_global&quot; //全局路径</span><br><span class="line">npm config set cache &quot;C:\Program Files\Node\node_cache&quot; //缓存路径</span><br></pre></td></tr></table></figure></li><li>修改<code>npm</code>源。<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">npm config set registry https://registry.npmmirror.com //修改</span><br><span class="line">npm get registry //检查</span><br></pre></td></tr></table></figure></li></ol><h2 id="3-GitHub创建仓库"><a href="#3-GitHub创建仓库" class="headerlink" title="3.GitHub创建仓库"></a>3.GitHub创建仓库</h2><ol><li>进入<a href="https://github.com/">Github</a>，点击右上角的<code>Sign in</code>。</li><li>登录完成后，点击右上角的<code>+</code>按钮，选择<code>New repository</code>，创建一个<code>&lt;用户名&gt;.github.io</code>的仓库。<ul><li>仓库的格式必须为：<code>&lt;用户名&gt;.github.io</code></li><li>勾选<code>Initialize this repository with a README</code>初始化一个<a href="http://readme.md/">README.md</a>文件</li><li>点击<code>Creat repository</code>进行创建</li></ul></li></ol><h2 id="4-Git安装-amp-amp-连接Github"><a href="#4-Git安装-amp-amp-连接Github" class="headerlink" title="4.Git安装 &amp;&amp; 连接Github"></a>4.Git安装 &amp;&amp; 连接Github</h2><h3 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h3><ol><li>打开<a href="https://registry.npmmirror.com/binary.html?path=git-for-windows/">镜像站</a>点击<code>v2.47.0</code>版本，选择<code>Git-2.47.0-64-bit.exe</code>下载。</li><li>下载后傻瓜式安装Git即可，安装的目录可以使用默认目录【C:/Program Files/Git】，也可以自定义路径。<ul><li><code>Git CMD</code>是WINDOWS命令行的指令风格</li><li><code>Git Bash</code>是LINUX系统的指令风格</li><li><code>Git GUI</code>是图形化界面</li></ul></li><li>配置用户名和邮箱。<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git config --global user.name &quot;用户名&quot; //全局用户名</span><br><span class="line">git config --global user.email &quot;邮箱&quot; //全局邮箱</span><br></pre></td></tr></table></figure></li><li>检查配置。<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">git config -l //查看所有配置</span><br><span class="line">git config --system --list //查看系统配置</span><br><span class="line">git config --global --list //查看全局配置</span><br></pre></td></tr></table></figure></li></ol><h3 id="连接"><a href="#连接" class="headerlink" title="连接"></a>连接</h3><ol><li>生成SSH公钥用于连接Github。<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh-keygen -t rsa -C &quot;邮箱&quot; //生成公钥</span><br></pre></td></tr></table></figure></li><li>打开目录【C:/Users/User/.ssh】会看到生成两个文件<code>id_rsa</code>（私钥）和<code>id_rsa.pub</code>（公钥）。用记事本打开<code>id_rsa.pub</code>文件，复制里面的内容。</li><li>进入Github，点击右上角头像选择<code>settings</code>，进入设置页后选择<code>SSH and GPG keys</code>，填写<code>Title</code>并将刚刚复制的内容填到<code>Key</code>中。</li><li>测试连接。<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh -T git@github.com //测试连接</span><br></pre></td></tr></table></figure>出现连接到账户的信息，说明配置成功。</li></ol><h2 id="5-Hexo安装"><a href="#5-Hexo安装" class="headerlink" title="5.Hexo安装"></a>5.Hexo安装</h2><ol><li>在目录【D:/HexoBlog】打开CMD命令窗口，安装Hexo并初始化项目。<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">npm install -g hexo-cli //安装</span><br><span class="line">hexo init yukun //初始化</span><br></pre></td></tr></table></figure></li><li>安装相关依赖。<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">cd blog-demo //进入文件夹</span><br><span class="line">npm i hexo@7.0.0 //安装</span><br></pre></td></tr></table></figure></li><li>项目结构。<br>【node_modules】：依赖包<br>【scaffolds】：文章模板<br>【source】：资源<br>【themes】：主题<br>【.npmignore】：发布时忽略的文件<br>【_config.landscape.yml】：主题的配置文件<br>【config.yml】：博客的配置文件<br>【package.json】：项目名称、描述、版本、运行和开发等信息</li><li>启动项目。<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo server //启动项目</span><br></pre></td></tr></table></figure></li><li>打开浏览器，输入地址：<a href="http://localhost:4000/">http://localhost:4000/</a>，查看博客效果。</li></ol><h2 id="6-将静态博客挂载到GitHub-Pages"><a href="#6-将静态博客挂载到GitHub-Pages" class="headerlink" title="6.将静态博客挂载到GitHub Pages"></a>6.将静态博客挂载到GitHub Pages</h2><ol><li>安装<code>hexo-deployer-git</code>。<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-deployer-git --save //安装</span><br></pre></td></tr></table></figure></li><li>修改配置文件<code>_config.yml</code>。<figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">deploy:</span></span><br><span class="line">  <span class="attr">type:</span> <span class="string">git</span></span><br><span class="line">  <span class="attr">repository:</span> <span class="string">git@github.com:UserName/UserName.github.io.git</span></span><br><span class="line">  <span class="attr">branch:</span> <span class="string">main</span></span><br></pre></td></tr></table></figure></li><li>修改配置完成后，将代码部署到GitHub。<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">hexo clean &amp;&amp; hexo generate &amp;&amp; hexo deploy //Git BASH终端</span><br><span class="line">hexo clean; hexo generate; hexo deploy //VS CODE终端</span><br></pre></td></tr></table></figure><ul><li><code>hexo clean</code>：删除之前生成的文件，可以用<code>hexo cl</code>缩写</li><li><code>hexo generate</code>：生成静态文章，可以用<code>hexo g</code>缩写</li><li><code>hexo deploy</code>：部署文章，可以用<code>hexo d</code>缩写</li></ul></li><li>打开浏览器，输入地址：<a href="http://UserName.github.io/">http://UserName.github.io/</a>，查看博客内容。</li></ol><hr><h2 id="1-Vercel部署-amp-amp-绑定域名"><a href="#1-Vercel部署-amp-amp-绑定域名" class="headerlink" title="1.Vercel部署 &amp;&amp; 绑定域名"></a>1.Vercel部署 &amp;&amp; 绑定域名</h2><h3 id="Vercel部署"><a href="#Vercel部署" class="headerlink" title="Vercel部署"></a>Vercel部署</h3><ol><li>进入<a href="https://vercel.com/">Vercel</a>，点击右上角的<code>Sign in</code>。</li><li>登录完成后，点击右上角的<code>Add New Project</code>，创建一个新的项目。在导入选项中点击<code>Continue with Github</code>，选择刚刚部署成功的存储静态博客的仓库<code>&lt;UserName&gt;.github.io</code>右边的<code>Import</code>选项。</li><li>填写项目名称，然后其他默认，点击<code>Deploy</code>，等待一分钟即可部署成功。</li></ol><h3 id="绑定域名"><a href="#绑定域名" class="headerlink" title="绑定域名"></a>绑定域名</h3><ol><li>点击Vercel控制面板右上角的<code>View Domains</code>查看当前的域，输入域名<code>yukun.cc</code>，选择重定向到<code>www.yukun.cc</code>，添加后会提示添加两条DNS解析记录。</li><li>在Prokbun域名解析记录里面添加两条记录。其中一条记录类型为<code>A</code>，主机记录为<code>@</code>，记录值为<code>76.223.126.88</code>，其他的设置默认即可。另外一条记录类型为<code>CNAME</code>，主机记录为<code>*</code>，记录值为<code>vercel.cdn.yt-blog.top</code>，其他的设置默认即可。</li><li>回到Vercel可以看到显示域名配置成功的提示，此时就可以通过自定义域名来访问博客了。</li><li>修改配置文件<code>_config.yml</code>。<figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">url:</span> <span class="string">https://www.yukun.cc/</span></span><br></pre></td></tr></table></figure></li></ol><div class="table-container"><table><thead><tr><th style="text-align:center">主机记录</th><th style="text-align:center">解释</th></tr></thead><tbody><tr><td style="text-align:center">www</td><td style="text-align:center">解析后的域名为<a href="http://www.yukun.cc">www.yukun.cc</a></td></tr><tr><td style="text-align:center">@</td><td style="text-align:center">直接解析主域名<a href="http://yukun.cc">yukun.cc</a></td></tr><tr><td style="text-align:center">*</td><td style="text-align:center">泛解析，匹配其他所有域名*.yukun.cc</td></tr><tr><td style="text-align:center">mail</td><td style="text-align:center">将域名解析为<a href="http://mail.yukun.cc">mail.yukun.cc</a>，通常用于解析邮箱服务器</td></tr><tr><td style="text-align:center">二级</td><td style="text-align:center">如<a href="http://abc.yukun.cc">abc.yukun.cc</a>，填写 abc</td></tr><tr><td style="text-align:center">手机网站</td><td style="text-align:center">如<a href="http://m.yukun.cc">m.yukun.cc</a>，填写 m</td></tr><tr><td style="text-align:center">显性URL</td><td style="text-align:center">不支持泛解析（泛解析：将所有子域名解析到同一地址）</td></tr></tbody></table></div><div class="table-container"><table><thead><tr><th style="text-align:center">记录类型</th><th style="text-align:center">解释</th></tr></thead><tbody><tr><td style="text-align:center">A</td><td style="text-align:center">用来指定域名的 IPv4 地址（如 8.8.8.8），如果需要将域名指向一个 IP 地址，就需要添加 A 记录。</td></tr><tr><td style="text-align:center">CNAME</td><td style="text-align:center">如果需要将域名指向另一个域名，再由另一个域名提供 IP 地址，就需要添加 CNAME 记录。</td></tr><tr><td style="text-align:center">MX</td><td style="text-align:center">如果需要设置邮箱，让邮箱能收到邮件，就需要添加 MX 记录。</td></tr><tr><td style="text-align:center">TXT</td><td style="text-align:center">在这里可以填写任何东西，长度限制 255。绝大多数的 TXT 记录是用来做 SPF 记录（反垃圾邮件）</td></tr><tr><td style="text-align:center">NS</td><td style="text-align:center">域名服务器记录，如果需要将子域名交给其他 DNS 服务商解析，就需要添加 NS 记录。</td></tr><tr><td style="text-align:center">AAAA</td><td style="text-align:center">用来指定主机名（或域名）对应的 IPv6 地址（例如：ff06:0:0:0:0:0:0:c3）记录。</td></tr><tr><td style="text-align:center">SRV</td><td style="text-align:center">记录了哪台计算机提供了哪个服务。格式为：服务的名字、点、协议的类型，例如：_xmpp-server_tcp。</td></tr><tr><td style="text-align:center">显性URL</td><td style="text-align:center">从一个地址 301 重定向到另一个地址的时候，就需要添加显性 URL 记录（注：DNSPod 目前只支持 301 重定向）。</td></tr><tr><td style="text-align:center">隐性URL</td><td style="text-align:center">类似于显性 URL，区别在于隐性 URL 不会改变地址栏的域名。</td></tr></tbody></table></div><h2 id="2-ButterFly安装"><a href="#2-ButterFly安装" class="headerlink" title="2.ButterFly安装"></a>2.ButterFly安装</h2><ol><li>在目录【D:/HexoBlog/yukun】打开CMD命令窗口，安装ButterFly。<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm i hexo-theme-butterfly@5.0.0 //安装 </span><br></pre></td></tr></table></figure></li><li>安装成功后可在【D:/HexoBlog/yukun/node_modules】文件夹下找到<code>hexo-theme-butterfly</code>文件夹。</li><li>修改配置文件<code>_config.yml</code>。<figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">theme:</span> <span class="string">butterfly</span></span><br></pre></td></tr></table></figure>把主题文件夹中的<code>_config.yml</code>复制到项目根目录里，同时重新命名为<code>_config.butterfly.yml</code>。后面只需要在<code>_config.butterfly.yml</code>进行配置即可生效。Hexo会自动合并主题中的<code>_config.yml</code>和<code>_config.butterfly.yml</code>里的配置。如果存在同名配置，会优先使用<code>_config.butterfly.yml</code>的配置。</li><li>安装渲染器。<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-renderer-pug hexo-renderer-stylus --save //安装渲染器</span><br></pre></td></tr></table></figure></li></ol><h2 id="3-主题页面"><a href="#3-主题页面" class="headerlink" title="3.主题页面"></a>3.主题页面</h2><h3 id="Front-matter"><a href="#Front-matter" class="headerlink" title="Front-matter"></a>Front-matter</h3><p><code>Front-matter</code>是markdown文件最上方以<code>---</code>分隔的区域，用于指定个别档案的变数。</p><ul><li>Page Front-matter 用于页面配置</li><li>Post Front-matter 用于文章页配置</li></ul><p><strong>Page Front-matter:</strong></p><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">title:</span><br><span class="line">date:</span><br><span class="line">updated:</span><br><span class="line">type:</span><br><span class="line">comments:</span><br><span class="line">description:</span><br><span class="line">keywords:</span><br><span class="line">top<span class="emphasis">_img:</span></span><br><span class="line"><span class="emphasis">mathjax:</span></span><br><span class="line"><span class="emphasis">katex:</span></span><br><span class="line"><span class="emphasis">aside:</span></span><br><span class="line"><span class="emphasis">aplayer:</span></span><br><span class="line"><span class="emphasis">highlight_</span>shrink:</span><br></pre></td></tr></table></figure><div class="table-container"><table><thead><tr><th style="text-align:center">写法</th><th style="text-align:center">解释</th></tr></thead><tbody><tr><td style="text-align:center">title</td><td style="text-align:center">【必需】页面标题</td></tr><tr><td style="text-align:center">date</td><td style="text-align:center">【必需】页面创建日期</td></tr><tr><td style="text-align:center">type</td><td style="text-align:center">【必需】标签、分类和友情链接三个页面需要配置</td></tr><tr><td style="text-align:center">updated</td><td style="text-align:center">【可选】页面更新日期</td></tr><tr><td style="text-align:center">description</td><td style="text-align:center">【可选】页面描述</td></tr><tr><td style="text-align:center">keywords</td><td style="text-align:center">【可选】页面关键字</td></tr><tr><td style="text-align:center">comments</td><td style="text-align:center">【可选】显示页面评论模块（默认 true）</td></tr><tr><td style="text-align:center">top_img</td><td style="text-align:center">【可选】页面顶部图片</td></tr><tr><td style="text-align:center">mathjax</td><td style="text-align:center">【可选】显示mathjax（当设置mathjax的per_page: false时，才需要配置，默认 false）</td></tr><tr><td style="text-align:center">kates</td><td style="text-align:center">【可选】显示katex（当设置katex的per_page: false时，才需要配置，默认 false）</td></tr><tr><td style="text-align:center">aside</td><td style="text-align:center">【可选】显示侧边栏（默认 true）</td></tr><tr><td style="text-align:center">aplayer</td><td style="text-align:center">【可选】在需要的页面加载aplayer的js和css,请参考音乐配置</td></tr><tr><td style="text-align:center">highlight_shrink</td><td style="text-align:center">【可选】配置代码框是否展开（默认为设置中highlight_shrink的配置）</td></tr></tbody></table></div><p><strong>Post Front-matter:</strong></p><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br></pre></td><td class="code"><pre><span class="line">title:</span><br><span class="line">date:</span><br><span class="line">updated:</span><br><span class="line">tags:</span><br><span class="line">categories:</span><br><span class="line">keywords:</span><br><span class="line">description:</span><br><span class="line">top<span class="emphasis">_img:</span></span><br><span class="line"><span class="emphasis">comments:</span></span><br><span class="line"><span class="emphasis">cover:</span></span><br><span class="line"><span class="emphasis">toc:</span></span><br><span class="line"><span class="emphasis">toc_</span>number:</span><br><span class="line">toc<span class="emphasis">_style_</span>simple:</span><br><span class="line">copyright:</span><br><span class="line">copyright<span class="emphasis">_author:</span></span><br><span class="line"><span class="emphasis">copyright_</span>author<span class="emphasis">_href:</span></span><br><span class="line"><span class="emphasis">copyright_</span>url:</span><br><span class="line">copyright<span class="emphasis">_info:</span></span><br><span class="line"><span class="emphasis">mathjax:</span></span><br><span class="line"><span class="emphasis">katex:</span></span><br><span class="line"><span class="emphasis">aplayer:</span></span><br><span class="line"><span class="emphasis">highlight_</span>shrink:</span><br><span class="line">aside:</span><br></pre></td></tr></table></figure><div class="table-container"><table><thead><tr><th style="text-align:center">写法</th><th style="text-align:center">解释</th></tr></thead><tbody><tr><td style="text-align:center">title</td><td style="text-align:center">【必需】文章标题</td></tr><tr><td style="text-align:center">date</td><td style="text-align:center">【必需】文章创建日期</td></tr><tr><td style="text-align:center">updated</td><td style="text-align:center">【可选】文章更新日期</td></tr><tr><td style="text-align:center">tags</td><td style="text-align:center">【可选】文章标签</td></tr><tr><td style="text-align:center">categories</td><td style="text-align:center">【可选】文章分类</td></tr><tr><td style="text-align:center">keywords</td><td style="text-align:center">【可选】文章关键字</td></tr><tr><td style="text-align:center">description</td><td style="text-align:center">【可选】文章描述</td></tr><tr><td style="text-align:center">top_img</td><td style="text-align:center">【可选】文章顶部图片</td></tr><tr><td style="text-align:center">cover</td><td style="text-align:center">【可选】文章缩略图（如果没有设置top_img，文章页顶部将显示缩略图，可设为false/图片地址/留空）</td></tr><tr><td style="text-align:center">comments</td><td style="text-align:center">【可选】显示文章评论模块（默认 true）</td></tr><tr><td style="text-align:center">toc</td><td style="text-align:center">【可选】显示文章TOC（默认为设置中toc的enable配置）</td></tr><tr><td style="text-align:center">toc_number</td><td style="text-align:center">【可选】显示toc_number（默认为设置中toc的number配置）</td></tr><tr><td style="text-align:center">toc_style_simple</td><td style="text-align:center">【可选】显示 toc 简洁模式</td></tr><tr><td style="text-align:center">copyright</td><td style="text-align:center">【可选】显示文章版权模块（默认为设置中post_copyright的enable配置）</td></tr><tr><td style="text-align:center">copyright_author</td><td style="text-align:center">【可选】文章版权模块的文章作者</td></tr><tr><td style="text-align:center">copyright_author_href</td><td style="text-align:center">【可选】文章版权模块的文章作者链接</td></tr><tr><td style="text-align:center">copyright_url</td><td style="text-align:center">【可选】文章版权模块的文章连结链接</td></tr><tr><td style="text-align:center">copyright_info</td><td style="text-align:center">【可选】文章版权模块的版权声明文字</td></tr><tr><td style="text-align:center">mathjax</td><td style="text-align:center">【可选】显示mathjax（当设置mathjax的per_page: false时，才需要配置，默认 false）</td></tr><tr><td style="text-align:center">katex</td><td style="text-align:center">【可选】显示katex（当设置katex的per_page: false时，才需要配置，默认 false）</td></tr><tr><td style="text-align:center">aplayer</td><td style="text-align:center">【可选】在需要的页面加载aplayer的js和css,请参考音乐配置</td></tr><tr><td style="text-align:center">highlight_shrink</td><td style="text-align:center">【可选】配置代码框是否展开（默认为设置中highlight_shrink的配置）</td></tr><tr><td style="text-align:center">aside</td><td style="text-align:center">【可选】显示侧边栏（默认 true）</td></tr></tbody></table></div><div class="note info flat"><p>注意：博客根目录路径为【D:/HexoBlog/yukun】，下文所说的根目录都是此路径，将用[BlogRoot]代替。</p></div><h3 id="标签页"><a href="#标签页" class="headerlink" title="标签页"></a>标签页</h3><ol><li>前往博客根目录，打开<code>Git Bash</code>执行命令。<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo new page tags //新建标签页</span><br></pre></td></tr></table></figure></li><li>在<code>[BlogRoot]\source\</code>会生成一个含有<code>index.md</code>文件的<code>tags</code>文件夹。</li><li>修改<code>[BlogRoot]\source\tags\index.md</code>，添加<code>type: &quot;tags&quot;</code>。<figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">title: tags</span><br><span class="line">date: 2024-10-20 20:00:00</span><br><span class="line">type: &quot;tags&quot;</span><br></pre></td></tr></table></figure></li></ol><h3 id="友情链接"><a href="#友情链接" class="headerlink" title="友情链接"></a>友情链接</h3><ol><li>前往博客根目录，打开<code>Git Bash</code>执行命令。<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo new page link //新建链接页</span><br></pre></td></tr></table></figure></li><li>在<code>[BlogRoot]\source\</code>会生成一个含有<code>index.md</code>文件的<code>link</code>文件夹</li><li>修改<code>[BlogRoot]\source\link\index.md</code>，添加<code>type: &quot;link&quot;</code><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">title: link</span><br><span class="line">date: 2024-10-20 20:00:00</span><br><span class="line">type: &quot;link&quot;</span><br></pre></td></tr></table></figure></li><li>前往<code>[BlogRoot]\source\_data</code>目录创建一个<code>link.yml</code>文件，并写入如下信息（根据你的需要写）：<figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="bullet">-</span> <span class="attr">class_name:</span> <span class="number">0</span><span class="string">.推荐网站🍔</span></span><br><span class="line">  <span class="attr">class_desc:</span> <span class="string">这里是最熟悉的小伙伴或者赞助商，当然是最前排啦</span></span><br><span class="line">  <span class="attr">link_list:</span> </span><br><span class="line">    <span class="bullet">-</span> <span class="attr">name:</span> <span class="string">Fomalhaut🥝</span></span><br><span class="line">      <span class="attr">link:</span> <span class="string">https://www.fomal.cc/</span></span><br><span class="line">      <span class="attr">avatar:</span> <span class="string">https://www.fomal.cc/assets/avatar.webp</span></span><br><span class="line">      <span class="attr">descr:</span> <span class="string">Future</span> <span class="string">is</span> <span class="string">now</span> <span class="string">🍭🍭🍭</span></span><br><span class="line">      <span class="attr">siteshot:</span> <span class="string">https://source.fomal.cc/siteshot/www.fomal.cn.jpg</span></span><br></pre></td></tr></table></figure></li></ol><h3 id="图库"><a href="#图库" class="headerlink" title="图库"></a>图库</h3><p>图库页面只是普通的页面，只需要<code>hexo new page xxx</code>创建页面就行。然后使用外挂标签 <code>galleryGroup</code>，具体用法请查看对应的内容。<br><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="language-xml"><span class="tag">&lt;<span class="name">div</span> <span class="attr">class</span>=<span class="string">&quot;gallery-group-main&quot;</span>&gt;</span></span></span><br><span class="line"></span><br><span class="line">&#123;% galleryGroup &#x27;封面专区&#x27; &#x27;本站用作文章封面的图片，不保证分辨率&#x27; &#x27;/box/Gallery/photo&#x27; https://www.yukun.cc/assets/webp/cover.default<span class="emphasis">_cover_</span>1.webp %&#125;</span><br><span class="line"></span><br><span class="line">&#123;% galleryGroup &#x27;背景专区&#x27; &#x27;收藏的一些的背景与壁纸，分辨率很高&#x27; &#x27;/box/Gallery/wallpaper&#x27; https://www.yukun.cc/assets/webp/cover.default<span class="emphasis">_cover_</span>2.webp %&#125;</span><br><span class="line"></span><br><span class="line"><span class="language-xml"><span class="tag">&lt;/<span class="name">div</span>&gt;</span></span></span><br></pre></td></tr></table></figure></p><h3 id="子页面"><a href="#子页面" class="headerlink" title="子页面"></a>子页面</h3><p>子页面也是普通的页面，只需要<code>hexo new page xxx</code>创建页面就行。然后使用标签外挂 <code>gallery</code>，具体用法请查看对应的内容。</p><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">&#123;% gallery %&#125; </span><br><span class="line">![<span class="string">p1</span>](<span class="link"> https://www.yukun.cc/assets/webp/cover.default_cover_1.webp </span>) </span><br><span class="line">![<span class="string">p2</span>](<span class="link"> https://www.yukun.cc/assets/webp/cover.default_cover_2.webp </span>) </span><br><span class="line">![<span class="string">p3</span>](<span class="link"> https://www.yukun.cc/assets/webp/cover.default_cover_3.webp </span>) </span><br><span class="line">&#123;% endgallery %&#125;</span><br></pre></td></tr></table></figure><h3 id="404页面"><a href="#404页面" class="headerlink" title="404页面"></a>404页面</h3><p>主題內置了一个简单的404页面，可在设置中开放。打开浏览器，输入地址：<a href="http://localhost:4000/404.html">http://localhost:4000/404.html</a></p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># A simple 404 page</span></span><br><span class="line"><span class="attr">error_404:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">subtitle:</span> <span class="string">&quot;页面沒有找到&quot;</span></span><br><span class="line">  <span class="attr">background:</span> </span><br></pre></td></tr></table></figure>]]></content>
       
       
+      <categories>
+          
+          <category> 建站 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 建站 </tag>
+            
+        </tags>
       
     </entry>
     
